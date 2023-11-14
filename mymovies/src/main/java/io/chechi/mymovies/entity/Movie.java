@@ -24,4 +24,5 @@ public class Movie {
     private String year;
 
     private String imdbId;
+
 }
